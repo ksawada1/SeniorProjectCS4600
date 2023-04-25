@@ -1,0 +1,535 @@
+year,position,value,category
+2017,Software Developers,135925,Tech
+2017,Computer Systems Analysts,89557,Tech
+2017,Computer Programmers,63573,Tech
+2017,Computer Occupations,51091,Tech
+2017,Computer Systems Analyst,16817,Tech
+2017,Management Analysts,12095,Business
+2017,Accountants And Auditors,10737,Accounting
+2017,Network And Computer Systems Administrators,10291,Tech
+2017,Mechanical Engineers,9373,Engineering
+2017,Operations Research Analysts,9019,Business
+2017,Financial Analysts,8538,Finance
+2017,Database Administrators,7416,Tech
+2017,Market Research Analysts And Marketing Specialists,6466,Marketing
+2017,Computer And Information Systems Managers,6272,Tech
+2017,Electronics Engineers,6225,Engineering
+2017,Electrical Engineers,6042,Engineering
+2017,Physicians And Surgeons,5405,Healthcare
+2017,Web Developers,4923,Tech
+2017,Statisticians,4887,Math
+2017,Medical Scientists,4434,Science
+2017,Biological Scientists,3259,Science
+2017,Industrial Engineers,3225,Engineering
+2017,Civil Engineers,3214,Engineering
+2017,Engineers,3208,Tech
+2017,Biochemists And Biophysicists,3072,Science
+2017,Physical Therapists,2793,Healthcare
+2017,Software Quality Assurance Engineers And Testers,2761,Tech
+2017,Sales Engineers,2164,Tech
+2017,Financial Specialists,2147,Finance
+2017,Marketing Managers,2144,Marketing
+2017,Chemists,2126,Science
+2017,Graphic Designers,1864,Tech
+2017,Health Specialties Teachers,1844,Education
+2017,Logisticians,1787,Logistics
+2017,Information Security Analysts,1703,Tech
+2017,Internists,1661,Healthcare
+2017,Computer Systems Engineers/Architects,1631,Tech
+2017,Computer And Information Research Scientists,1619,Tech
+2017,Financial Managers,1491,Finance
+2017,Lawyers,1447,Law
+2017,General And Operations Managers,1399,Business
+2017,Commercial And Industrial Designers,1354,Industrial
+2017,Architectural And Engineering Managers,1296,Architecture
+2017,Dentists,1253,Healthcare
+2017,Computer Hardware Engineers,1248,Tech
+2017,Materials Engineers,1202,Engineering
+2017,Human Resources Specialists,1167,Business
+2017,Architects,1140,Architecture
+2017,Business Teachers,1088,Education
+2017,Medical And Clinical Laboratory Technologists,1073,Healthcare
+2017,Secondary School Teachers,1054,Education
+2017,Elementary School Teachers,1042,Education
+2017,Biological Technicians,1012,Science
+2017,Chemical Engineers,1010,Science
+2017,Engineering Teachers,986,Education
+2017,Computer Network Architects,978,Tech
+2017,Biomedical Engineers,972,Science
+2017,Economists,954,Finance
+2017,Compliance Officers,934,Finance
+2017,Architectural And Civil Drafters,890,Architecture
+2017,Public Relations Specialists,872,Business
+2017,Business Operations Specialists,848,Business
+2017,Information Technology Project Managers,840,Tech
+2017,Computer Network Support Specialists,773,Tech
+2017,Materials Scientists,763,Science
+2017,Physicists,763,Healthcare
+2017,Pharmacists,755,Healthcare
+2017,Mathematical Science Teachers,727,Education
+2017,Cost Estimators,717,Accounting
+2017,Managers,708,Business
+2017,Transportation,684,Transportation
+2017,Sales Managers,683,Business
+2017,Credit Analysts,665,Finance
+2017,Healthcare Practitioners And Technical Workers,659,Healthcare
+2017,Computer Science Teachers,634,Education
+2017,Industrial Production Managers,632,Industrial
+2017,Family And General Practitioners,631,Other
+2017,Actuaries,631,Math
+2017,Medical And Health Services Managers,608,Healthcare
+2017,Foreign Language And Literature Teachers,582,Education
+2017,Computer User Support Specialists,545,Tech
+2017,Food Scientists And Technologists,511,Science
+2017,Multimedia Artists And Animators,508,Media
+2017,Construction Managers,506,Construction
+2017,Budget Analysts,506,Accounting
+2017,Interior Designers,504,Other
+2017,Mathematicians,502,Math
+2018,Software Developers,212485,Tech
+2018,Computer Occupations,58202,Tech
+2018,Computer Systems Analysts,57281,Tech
+2018,Computer Programmers,25249,Tech
+2018,Computer Systems Analyst,14133,Tech
+2018,Operations Research Analysts,12699,Business
+2018,Management Analysts,11952,Business
+2018,Mechanical Engineers,10433,Engineering
+2018,Accountants And Auditors,10192,Accounting
+2018,Database Administrators,9688,Tech
+2018,Network And Computer Systems Administrators,9326,Tech
+2018,Financial Analysts,9158,Finance
+2018,Computer And Information Systems Managers,7813,Tech
+2018,Electrical Engineers,7452,Engineering
+2018,Statisticians,7311,Math
+2018,Electronics Engineers,6567,Engineering
+2018,Physicians And Surgeons,6122,Healthcare
+2018,Market Research Analysts And Marketing Specialists,6117,Marketing
+2018,Medical Scientists,4956,Science
+2018,Industrial Engineers,4427,Engineering
+2018,Web Developers,4347,Tech
+2018,Civil Engineers,4049,Engineering
+2018,Biological Scientists,3496,Science
+2018,Information Security Analysts,3460,Tech
+2018,Engineers,3342,Tech
+2018,Financial Specialists,3127,Finance
+2018,Biochemists And Biophysicists,2852,Science
+2018,Physical Therapists,2675,Healthcare
+2018,Computer And Information Research Scientists,2590,Tech
+2018,Computer Network Architects,2468,Tech
+2018,Sales Engineers,2365,Tech
+2018,Chemists,2262,Science
+2018,Marketing Managers,2213,Marketing
+2018,Health Specialties Teachers,2073,Education
+2018,Logisticians,1953,Logistics
+2018,Graphic Designers,1851,Tech
+2018,Internists,1593,Healthcare
+2018,Financial Managers,1562,Finance
+2018,Medical And Clinical Laboratory Technologists,1549,Healthcare
+2018,Architectural And Engineering Managers,1548,Tech
+2018,Lawyers,1487,Law
+2018,Architects,1382,Architecture
+2018,Software Quality Assurance Engineers And Testers,1375,Tech
+2018,Materials Engineers,1346,Engineering
+2018,Dentists,1302,Healthcare
+2018,Computer Hardware Engineers,1254,Tech
+2018,Economists,1211,Finance
+2018,Engineering Teachers,1195,Education
+2018,Business Teachers,1171,Education
+2018,Biomedical Engineers,1136,Science
+2018,Healthcare Practitioners And Technical Workers,1132,Healthcare
+2018,Commercial And Industrial Designers,1124,Industrial
+2018,Compliance Officers,1119,Finance
+2018,Elementary School Teachers,1088,Education
+2018,Secondary School Teachers,1080,Education
+2018,General And Operations Managers,1070,Business
+2018,Chemical Engineers,1060,Science
+2018,Human Resources Specialists,1013,Business
+2018,Computer Systems Engineers/Architects,987,Tech
+2018,Physicists,952,Health
+2018,Biological Technicians,873,Science
+2018,Public Relations Specialists,872,Business
+2018,Cost Estimators,800,Accounting
+2018,Architectural And Civil Drafters,790,Architecture
+2018,Actuaries,772,Math
+2018,Mathematical Science Teachers,762,Education
+2018,Computer Science Teachers,748,Education
+2018,Materials Scientists,734,Science
+2018,Managers,692,Business
+2018,Industrial Production Managers,692,Industrial
+2018,Construction Managers,673,Construction
+2018,Transportation,649,Transportation
+2018,Pharmacists,649,Healthcare
+2018,Mathematicians,642,Math
+2018,Multimedia Artists And Animators,575,Media
+2018,Foreign Language And Literature Teachers,572,Education
+2018,Computer Network Support Specialists,563,Tech
+2018,Business Operations Specialists,559,Business
+2018,Sales Managers,559,Business
+2018,Medical And Health Services Managers,558,Healthcare
+2018,Information Technology Project Managers,552,Tech
+2018,Health Diagnosing And Treating Practitioners,551,Healthcare
+2018,Food Scientists And Technologists,551,Science
+2018,Budget Analysts,541,Accounting
+2018,Family And General Practitioners,540,Other
+2018,Microbiologists,535,Science
+2018,Environmental Engineers,524,Science
+2018,Credit Analysts,504,Finance
+2018,Training And Development Specialists,500,Business
+2019,Software Developers,238966,Tech
+2019,Computer Occupations,54187,Tech
+2019,Computer Systems Analyst,40566,Tech
+2019,Computer Systems Analysts,30569,Tech
+2019,Computer Programmers,16424,Tech
+2019,Operations Research Analysts,11323,Business
+2019,Mechanical Engineers,11314,Engineering
+2019,Accountants And Auditors,10131,Accounting
+2019,Management Analysts,9411,Business
+2019,Statisticians,9164,Math
+2019,Financial Analysts,8776,Finance
+2019,Database Administrators,8749,Tech
+2019,Computer And Information Systems Managers,8732,Tech
+2019,Electrical Engineers,8123,Engineering
+2019,Network And Computer Systems Administrators,6710,Tech
+2019,Electronics Engineers,6272,Engineering
+2019,Market Research Analysts And Marketing Specialists,5442,Marketing
+2019,Medical Scientists,5340,Science
+2019,Physicians And Surgeons,5138,Healthcare
+2019,Industrial Engineers,5102,Engineering
+2019,Civil Engineers,4739,Engineering
+2019,Information Security Analysts,4568,Tech
+2019,Computer And Information Research Scientists,4168,Tech
+2019,Engineers,3827,Tech
+2019,Biological Scientists,3723,Science
+2019,Financial Specialists,3681,Finance
+2019,Information Technology Project Managers,3257,Tech
+2019,Biochemists And Biophysicists,3182,Science
+2019,Computer Network Architects,3079,Tech
+2019,Sales Engineers,2642,Tech
+2019,Chemists,2311,Science
+2019,Marketing Managers,2212,Marketing
+2019,Health Specialties Teachers,2172
+2019,Web Developers,2055,Tech,Tech
+2019,Software Quality Assurance Engineers And Testers,1989,Tech
+2019,Physical Therapists,1903,Healthcare
+2019,Graphic Designers,1883,Tech
+2019,Logisticians,1865,Logistics
+2019,Architectural And Engineering Managers,1665,Tech
+2019,Computer Systems Engineers/Architects,1635,Tech
+2019,Lawyers,1588,Law
+2019,Financial Managers,1452,Finance
+2019,Computer Hardware Engineers,1411,Tech
+2019,Biomedical Engineers,1352,Science
+2019,Architects,1351,Architecture
+2019,Business Teachers,1343,Education
+2019,Economists,1304,Finance
+2019,Materials Engineers,1286,Engineering
+2019,Dentists,1238,Healthcare
+2019,Engineering Teachers,1197,Education
+2019,Compliance Officers,1196,Finance
+2019,Chemical Engineers,1173,Science
+2019,Commercial And Industrial Designers,1168,Industrial
+2019,Internists,1137,Healthcare
+2019,Elementary School Teachers,1050,Education
+2019,Physicists,1033,Healthcare
+2019,Secondary School Teachers,996,Education
+2019,Human Resources Specialists,965,Education
+2019,General And Operations Managers,944,Business
+2019,Biological Technicians,942,Science
+2019,Medical And Clinical Laboratory Technologists,889,Science
+2019,Computer Science Teachers,879,Tech
+2019,Managers,850,Business
+2019,Architectural And Civil Drafters,848,Architecture
+2019,Cost Estimators,834,Accounting
+2019,Mathematical Science Teachers,807,Education
+2019,Public Relations Specialists,804,Business
+2019,Construction Managers,791,Construction
+2019,Materials Scientists,760,Science
+2019,Family And General Practitioners,651,Other
+2019,Multimedia Artists And Animators,647,Media
+2019,Healthcare Practitioners And Technical Workers,642,Other
+2019,Actuaries,622,Math
+2019,Microbiologists,575,Science
+2019,Training And Development Specialists,572,Business
+2019,Natural Sciences Managers,567,Science
+2019,Food Scientists And Technologists,562,Science
+2019,Foreign Language And Literature Teachers,560,Education
+2019,Transportation,557,Transportation
+2019,Pharmacists,556,Healthcare
+2019,Environmental Engineers,548,Science
+2019,Industrial Production Managers,547,Industrial
+2019,Mathematicians,534,Math
+2019,Medical And Health Services Managers,532,Healthcare
+2020,Software Developers,214905,Tech
+2020,Computer Systems Analysts,48812,Tech
+2020,Computer Systems Engineers/Architects,16449,Tech
+2020,Software Quality Assurance Engineers And Testers,14249,Tech
+2020,Computer Programmers,12062,Tech 
+2020,Information Technology Project Managers,11866,Tech
+2020,Computer And Information Systems Managers,10905,Tech
+2020,Mechanical Engineers,9865,Engineering
+2020,Operations Research Analysts,9644,Business
+2020,Computer Occupations,8668,Tech
+2020,Statisticians,8086,Math
+2020,Management Analysts,7406,Business
+2020,Financial Analysts,7204,Finance
+2020,Business Intelligence Analysts,7165,Tech
+2020,Database Administrators,7036,Tech
+2020,Electrical Engineers,6885,Engineering
+2020,Electronics Engineers,6428,Engineering
+2020,Accountants And Auditors,6273,Accounting
+2020,Network And Computer Systems Administrators,5408,Tech
+2020,Medical Scientists,5037,Science
+2020,Computer And Information Research Scientists,4719,Tech
+2020,Industrial Engineers,4369,Engineering
+2020,Information Security Analysts,4367,Tech
+2020,Civil Engineers,3801,Engineering
+2020,Market Research Analysts And Marketing Specialists,3739,Marketing
+2020,Physicians And Surgeons,3582,Healthcare
+2020,Biochemists And Biophysicists,2915,Science
+2020,Computer Network Architects,2717,Tech
+2020,Web Developers,2221,Tech
+2020,Accountants,2186,Accounting
+2020,Sales Engineers,2184,Tech
+2020,Financial Quantitative Analysts,2076,Finance
+2020,Health Specialties Teachers,2038,Healthcare
+2020,Data Warehousing Specialists,1977,Tech
+2020,Marketing Managers,1958,Marketing
+2020,Chemists,1947,Science
+2020,Computer Systems Analyst,1826,Tech
+2020,Physical Therapists,1754,Healthcare
+2020,Architectural And Engineering Managers,1586,Tech
+2020,Graphic Designers,1548,Tech
+2020,Lawyers,1493,Law
+2020,Database Architects,1454,Tech
+2020,Computer Hardware Engineers,1391,Tech
+2020,Risk Management Specialists,1342,Finance
+2020,Validation Engineers,1300,Tech
+2020,Biological Scientists,1283,Science
+2020,Hospitalists,1251,Healthcare
+2020,Financial Managers,1246,Finance
+2020,Architects,1211,Architecture
+2020,Biomedical Engineers,1151,Science
+2020,Business Teachers,1143,Education
+2020,Materials Engineers,1096,Engineering
+2020,Engineering Teachers,1077,Education
+2020,Medical And Clinical Laboratory Technologists,1072,Healthcare
+2020,Dentists,1048,Healthcare
+2020,Elementary School Teachers,1046,Education
+2020,Internists,1039,Industrial
+2020,Bioinformatics Scientists,1038,Science
+2020,Chemical Engineers,1006,Science
+2020,Economists,991,Finance
+2020,Logisticians,975,Logistics
+2020,Molecular And Cellular Biologists,969,Science
+2020,Physicists,967,Science
+2020,Commercial And Industrial Designers,958,Industrial
+2020,Secondary School Teachers,847,Education
+2020,Computer Science Teachers,841,Education
+2020,Manufacturing Engineers,811,Engineering
+2020,Materials Scientists,740,Science
+2020,General And Operations Managers,734,Management
+2020,Human Resources Specialists,713,Business
+2020,Engineers,689,Tech
+2020,Construction Managers,687,Construction
+2020,Mathematical Science Teachers,685,Education
+2020,Biological Technicians,683,Science
+2020,Regulatory Affairs Specialists,621,Business
+2020,Biostatisticians,620,Science
+2020,Cost Estimators,586,Accounting
+2020,Actuaries,554,Math
+2020,Healthcare Practitioners And Technical Workers,518,Healthcare
+2020,Foreign Language And Literature Teachers,514,Education
+2021,Software Developers,309622,Tech
+2021,Computer Systems Analysts,46823,Tech
+2021,Computer Systems Engineers/Architects,25158,Tech
+2021,Software Quality Assurance Engineers And Testers,19911,Tech
+2021,Information Technology Project Managers,17443,Tech
+2021,Computer And Information Systems Managers,16574,Tech
+2021,Mechanical Engineers,15005,Engineering
+2021,Business Intelligence Analysts,14749,Tech
+2021,Electronics Engineers,13358,Engineering
+2021,Operations Research Analysts,12980,Business
+2021,Computer Programmers,12671,Tech
+2021,Statisticians,12667,Math
+2021,Database Administrators,12133,Tech
+2021,Financial Analysts,11861,Finance
+2021,Computer Occupations,11602,Tech
+2021,Electrical Engineers,11090,Engineering
+2021,Management Analysts,9431,Business
+2021,Accountants And Auditors,9140,Accounting
+2021,Medical Scientists,7247,Science
+2021,Industrial Engineers,7237,Engineering
+2021,Network And Computer Systems Administrators,7119,Tech
+2021,Computer And Information Research Scientists,6813,Tech
+2021,Information Security Analysts,6054,Tech
+2021,Physicians And Surgeons,5664,Healthcare
+2021,Biochemists And Biophysicists,5231,Science
+2021,Civil Engineers,5224,Engineering
+2021,Market Research Analysts And Marketing Specialists,5002,Marketing
+2021,Financial Quantitative Analysts,3545,Finance
+2021,Sales Engineers,3370,Tech
+2021,Computer Network Architects,3231,Tech
+2021,Chemists,3185,Science
+2021,Data Warehousing Specialists,3069,Tech
+2021,Marketing Managers,3017,Marketing
+2021,Health Specialties Teachers,2845,Education
+2021,Database Architects,2761,Tech
+2021,Medical And Clinical Laboratory Technologists,2738,Healthcare
+2021,Accountants,2712,Accounting
+2021,Physical Therapists,2479,Healthcare
+2021,Materials Engineers,2448,Engineering
+2021,Architectural And Engineering Managers,2444,Architecture
+2021,Molecular And Cellular Biologists,2426,Science
+2021,Validation Engineers,2352,Tech
+2021,Lawyers,2235,Law
+2021,Graphic Designers,2231,Tech
+2021,Biological Scientists,2137,Science
+2021,Hospitalists,2084,Healthcare
+2021,Risk Management Specialists,2044,Finance
+2021,Bioinformatics Scientists,2034,Science
+2021,Financial Managers,2014,Finance
+2021,Web Developers,1925,Tech
+2021,Computer Hardware Engineers,1910,Tech
+2021,Biomedical Engineers,1796,Science
+2021,Business Teachers,1770,Education
+2021,Engineering Teachers,1680,Education
+2021,Elementary School Teachers,1641,Education
+2021,Dentists,1621,Healthcare
+2021,Logisticians,1562,Logistics
+2021,Physicists,1561,Healthcare
+2021,Architects,1558,Architecture
+2021,Chemical Engineers,1558,Science
+2021,Internists,1553,Healthcare
+2021,Economists,1466,Finance
+2021,Computer Science Teachers,1421,Education
+2021,Secondary School Teachers,1313,Education
+2021,Biological Technicians,1242,Science
+2021,Commercial And Industrial Designers,1216,Industrial
+2021,Manufacturing Engineers,1214,Engineering
+2021,Regulatory Affairs Specialists,1189,Business
+2021,Materials Scientists,1084,Science
+2021,General And Operations Managers,1057,Business
+2021,Mathematical Science Teachers,1053,Education
+2021,Biostatisticians,1049,Science
+2021,Human Resources Specialists,957,Business
+2021,Construction Managers,907,Construction
+2021,Cost Estimators,843,Accounting
+2021,Supply Chain Managers,835,Business
+2021,Microbiologists,807,Science
+2021,Clinical Data Managers,753,Tech
+2021,Natural Sciences Managers,733,Science
+2021,Foreign Language And Literature Teachers,731,Education
+2021,Mathematicians,717,Math
+2021,Family And General Practitioners,705,Other
+2021,Transportation,692,Transportation
+2021,Multimedia Artists And Animators,690,Media
+2021,Actuaries,682,Math
+2021,Industrial Production Managers,682,Industrial
+2021,Food Scientists And Technologists,674,Science
+2021,Pediatricians,643,Healthcare
+2021,Logistics Analysts,635,Logistics
+2021,Biological Science Teachers,630,Education
+2021,Soil And Plant Scientists,618,Science
+2021,Healthcare Practitioners And Technical Workers,617,Healthcare
+2021,Psychiatrists,587,Healthcare
+2021,Automotive Engineers,587,Engineering
+2021,Public Relations Specialists,579,Business
+2021,Medical And Health Services Managers,578,Healthcare
+2021,Mechatronics Engineers,573,Engineering
+2021,Sales Managers,571,Business
+2021,Pharmacists,569,Healthcare
+2021,Environmental Engineers,560,Engineering
+2021,Engineers,560,Tech
+2021,Special Education Teachers,536,Education
+2021,Middle School Teachers,532,Education
+2021,Economics Teachers,529,Education
+2021,Auditors,512,Accounting
+2022,Software Developers,231903,Tech
+2022,Computer Systems Analysts,33466,Tech
+2022,Computer Systems Engineers/Architects,22050,Tech
+2022,Information Technology Project Managers,15420,Tech
+2022,Computer And Information Systems Managers,14838,Tech
+2022,Business Intelligence Analysts,13337,Tech
+2022,Software Quality Assurance Engineers And Testers,12230,Tech
+2022,Operations Research Analysts,11166,Business
+2022,Mechanical Engineers,10819,Engineering
+2022,Computer Programmers,9232,Tech
+2022,Electronics Engineers,9220,Engineering
+2022,Statisticians,8904,Math
+2022,Computer Occupations,8240,Tech
+2022,Database Administrators,7959,Tech
+2022,Electrical Engineers,7776,Engineering
+2022,Accountants And Auditors,7311,Accounting
+2022,Financial Analysts,7028,Business
+2022,Management Analysts,6714,Business
+2022,Industrial Engineers,5574,Engineering
+2022,Computer And Information Research Scientists,5093,Tech
+2022,Medical Scientists,4921,Healthcare
+2022,Information Security Analysts,4816,Tech
+2022,Network And Computer Systems Administrators,4578,Tech
+2022,Civil Engineers,4458,Engineering
+2022,Market Research Analysts And Marketing Specialists,4079,Marketing
+2022,Physicians And Surgeons,3785,Healthcare
+2022,Biochemists And Biophysicists,3451,Science
+2022,Database Architects,2932,Tech
+2022,Financial Quantitative Analysts,2795,Finance
+2022,Software Quality Assurance Analysts And Testers,2775,Tech
+2022,Sales Engineers,2466,Tech
+2022,Computer Network Architects,2373,Tech
+2022,Data Warehousing Specialists,2294,Tech
+2022,Medical And Clinical Laboratory Technologists,2267,Healthcare
+2022,Chemists,2189,Science
+2022,Architectural And Engineering Managers,2064,Tech
+2022,Marketing Managers,2020,Marketing
+2022,Health Specialties Teachers,2015,Healthcare
+2022,Validation Engineers,1974,Tech
+2022,Graphic Designers,1897,Tech
+2022,Molecular And Cellular Biologists,1852,Science
+2022,Materials Engineers,1798,Engineering
+2022,Lawyers,1722,Law
+2022,Physical Therapists,1650,Healthcare
+2022,Elementary School Teachers,1605,Education
+2022,Bioinformatics Scientists,1599,Science
+2022,Architects,1514,Architecture
+2022,Web Developers,1468,Tech
+2022,Computer Hardware Engineers,1462,Tech
+2022,Secondary School Teachers,1462,Education
+2022,Financial Managers,1381,Finance
+2022,Business Teachers,1374,Education
+2022,Biological Scientists,1348,Science
+2022,Accountants,1340,Accounting
+2022,Logisticians,1321,Logistics
+2022,Risk Management Specialists,1250,Finance
+2022,Data Scientists,1229,Tach
+2022,Hospitalists,1228,Healthcare
+2022,Engineering Teachers,1206,Education
+2022,Chemical Engineers,1167,Science
+2022,Computer Science Teachers,1112,Education
+2022,Economists,1111,Finance
+2022,Biomedical Engineers,1106,Science
+2022,Manufacturing Engineers,1088,Engineering
+2022,Physicists,1058,Healthcare
+2022,Dentists,1044,Healthcare
+2022,Commercial And Industrial Designers,1002,Industrial
+2022,Construction Managers,953,Construction
+2022,Biostatisticians,942,Science
+2022,Human Resources Specialists,929,Business
+2022,Financial And Investment Analysts,902,Finance
+2022,Regulatory Affairs Specialists,891,Business
+2022,Internists,887,Healthcare
+2022,General And Operations Managers,844,Business
+2022,Biological Technicians,817,Science
+2022,Mathematical Science Teachers,808,Education
+2022,Rehabilitation Counselors,735,Healthcare
+2022,Materials Scientists,706,Science
+2022,Clinical Data Managers,667,Tech
+2022,Supply Chain Managers,639,Business
+2022,Automotive Engineers,623,Engineering
+2022,Cost Estimators,603,Accounting
+2022,Middle School Teachers,576,Education
+2022,Actuaries,563,Math
+2022,Foreign Language And Literature Teachers,560,Education
+2022,Medical And Health Services Managers,541,Healthcare
+2022,Natural Sciences Managers,526,Science
+2022,Industrial Production Managers,526,Industrial
+2022,Logistics Analysts,524,Logistics

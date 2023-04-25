@@ -1,0 +1,142 @@
+header{
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #f2f2f2;
+}
+svg{
+    color: #606060;
+}
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #606060;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #606060;  
+}
+/* Add a black background color to the top navigation */
+.topnav {
+    /* background-image: linear-gradient(-20deg, #b721ff 0%, #21d4fd 100%); */
+    background-image: linear-gradient(-20deg,  #00f2fe 0%, #f093fb 100%);
+    overflow: hidden;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: #606060;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-image: linear-gradient(to right, #ff758c 0%, #ff7eb3 100%);
+    color: white;
+  }
+
+/* TITLE */
+#app h1{
+    /* color: #A555EC; */
+    color: #606060;
+}
+/* HOME : Description of H1-B*/
+#home{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #606060;
+    width: 95%;
+    height: 30%;
+    margin-left: 2vw;
+}
+#home h3{
+    color: #ff758c;
+}
+
+
+  /* G1 : Stattus Bar Graph all year */
+#containerG1 {
+    border: 1px solid rgb(213, 218, 218);
+    padding: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #606060;
+    position: relative;
+     margin-left: 2vw;
+
+}
+.graph{
+    float: left
+}
+.statusLegendLabels{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #606060;
+    font-size: x-small;
+}
+
+.legendContainer{
+    position: absolute;
+    top: 10vh;
+    left: 70vw;
+}
+
+.c-bar {
+    fill: #ff7eb3;
+    /* fill: #7C83FD; */
+}
+.cw-bar {
+    fill: #40DFEF;
+    /* fill: #96BAFF; */
+}
+.d-bar {
+    fill: #b388eb;
+    /* fill: #7DEDFF; */
+}
+.w-bar {
+    fill: #a3c4f3;
+    /* fill: #88FFF7; */
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #606060;
+}
+.legendStatus {
+    height: 300px;
+    font-size: small;
+}
+label{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #606060;
+
+}
+
+
+/* G3 : Horiz Bar Graph - Companies Each Year */
+#containerCo{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #606060;
+    text-decoration-color: #606060;
+
+}
+
+rect{
+    fill: #9381ff;
+}
+
+text.title{
+    color: #606060;
+}
+
+/* G4 : Bubble Chart - Positions certified in 2022  */
+  #containerCo{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #606060;
+    text-decoration-color: #606060;
+
+}

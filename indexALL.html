@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="utf-8">
+        <title>H1-B Application by Year (2015-2019)</title>
+        <link rel="stylesheet" href="stylesAll.css">        
+    </head>
+       
+    <body>
+        <div id="app">
+            
+            
+            <div class="topnav">
+                <header>CS4600 Senior Project - Data Visualization</header>
+                <a href="#home" @click="changeGraph('home')" :class="{ active: showGraph == 'home' }">Home</a>
+                <a href="#g1" @click="changeGraph('g1')" :class="{ active: showGraph == 'g1' }">Status</a>
+                <a href="#g2" @click="changeGraph('g2')" :class="{ active: showGraph == 'g2' }">States</a>
+                <a href="#g3" @click="changeGraph('g3')" :class="{ active: showGraph == 'g3' }">Companies</a>
+                <a href="#g3" @click="changeGraph('g4')" :class="{ active: showGraph == 'g4' }">Positions</a></a>
+            </div>
+            <h1>H1-B Petition</h1>
+            <p></p>
+
+            <div id="home" v-show="showGraph == 'home'">
+                <h3>What is the H-1B Visa?</h3>
+                <p>H-1B visa is used by businesses and organizations in the United States to employ foreign nationals with the preferred qualifications, knowledge, and expertise in a role. The petition is filed with USCIS, along with the requisite fees.</p>
+                <h3>What are the Legal Requirements for Applying for the H-1B Visa?</h3>
+                <p>The application process for an H-1B visa is complex and lengthy. There are legal requirements on the employee and employer sides. To begin the process, the applicant must first find a sponsor. That sponsor must submit a Labor Conditions Approval and Form I-129.
+
+                    Then, the employer will work with the sponsored employee to complete an H1B visa petition.</p>
+            </div>
+
+            <div v-show="showGraph == 'g3'">
+                <label for="graphSelection">Year: </label>
+                
+                <select v-model="selectedGraphYear" @change="redrawCompaniesGraph">
+                    <option value=""></option>
+                    <option value="2017">2017</option>
+                    <option value="2018">2018</option>
+                    <option value="2019">2019</option>
+                    <option value="2020">2020</option>
+                    <option value="2021">2021</option>
+                    <option value="2022">2022</option>
+                </select>
+                <p></p>
+                <p>Any US employer can sponsor a H1-B petition, however, it looks like big accounting/consulting firms and tech companies have higher numbers of 
+                    the applications approved in past 6 years. 
+                    In 2017, Amazon and Google were not in top 10.  However, in 2022, Amazon moved up to Top 1 and Google moved up to Top3.
+                </p>
+                <h3>Top 15 Companies Certified H1-B</h3>
+                
+            </div>
+
+            <div id="containerG1" v-show="showGraph == 'g1'">
+                <p>This graph shows application status.  
+                    Every year, most of cases are certified, which tells you there is high posibilities your H1-B application would be certified if you get a right position by a right company. </p>
+                <h3>Application Status 2017-2022</h3>
+            </div>
+
+            <div id="containerMap" v-show="showGraph == 'g2'">
+                <p>Where the worksite would be?  This graph shows which states have the most applications approved in 2022. California is the most, and Texas is the second.  
+                    Because most of big tech companies locate in California, and Texas is becoming a business center of central US. Thus you might have to move to those states 
+                    if you are looking for opportunities with a visa sponsorship.</p>
+                <h3>The numbers of the applications approved by States</h3>
+            </div>
+            <div id="containerCo" v-show="showGraph == 'g3'"></div>
+            <div id="containerPositions" v-show="showGraph == 'g4'">
+                <p>This bubble chart shows what kind of job positions got certified in 2022.  Bigger the bubble gets, more numbers of positions got certified for the H1-B. 
+                    The biggest bubble is Software Developers.  The most of bubbles are tech related positions and this tells us tech positions are likely to be approved.</p>
+                <h3>Total numbers of Job Positions Certified in 2022</h3>
+            </div>
+
+        </div>
+        <script src="https://unpkg.com/d3@6.7.0/dist/d3.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/3.2.47/vue.global.min.js" integrity="sha512-DJ2+sosWB5FnZAIeCWAHu2gxQ7Gi438oOZLcBQSOrW8gD0s7LIXDv/5RW76B3FcljF40BXnfqNIo6Dhp7dFHJg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+        <!-- <script src="http://d3js.org/d3.v4.min.js"></script> -->
+        <script src="https://unpkg.com/d3-array/dist/d3-array.min.js"></script>
+        <!-- <script src="https://unpkg.com/d3@5.6.0/dist/d3.min.js"></script> -->
+        <script src="appALL.js" defer></script>
+    </body>
+    
+</html>
