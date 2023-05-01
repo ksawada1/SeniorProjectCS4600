@@ -59,7 +59,10 @@ p{
 #home h3{
     color: #ff758c;
 }
+ img{
+    margin: 8vh 1vw;
 
+ }
 
   /* G1 : Stattus Bar Graph all year */
 #containerG1 {
@@ -140,3 +143,9 @@ text.title{
     text-decoration-color: #606060;
 
 }
+
+#containerMap{
+    height: auto;
+    width: 1400;
+}
+
